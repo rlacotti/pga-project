@@ -1,4 +1,4 @@
-# Pga-Project
+# PGA-Project
 
 PGA Project is a Python project leveraging web scraping and K-Means clustering to analyze and categorize golf statistics, providing insights into playing styles on the PGA Tour.
 
